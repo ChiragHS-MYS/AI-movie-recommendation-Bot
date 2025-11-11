@@ -1,0 +1,5 @@
+{
+  "name": "MovieRecs AI",
+  "description": "A friendly chatbot that provides personalized movie recommendations powered by the Gemini API.",
+  "requestFramePermissions": []
+}
